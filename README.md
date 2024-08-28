@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm currently working on a Raspberry Pi VPN bridge project which will allow devices that don't support tailscale to connect to it through a Raspberry Pi.
+
 <!--
 **Cocoiscool-531/Cocoiscool-531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
